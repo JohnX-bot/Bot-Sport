@@ -1,0 +1,160 @@
+================================================================================
+                    INTEGRACIÓN DE API DE FÚTBOL EN VIVO
+================================================================================
+
+✅ IMPLEMENTADO
+─────────────────────────────────────────────────────────────────────────────
+
+1. Módulo data/live_matches_api.py
+   - Conecta con football-data.org
+   - Obtiene datos reales en vivo:
+     * Equipos y nombres reales
+     * Marcador actual
+     * Minuto del partido
+     * Estado (EN VIVO, DESCANSO, FINALIZADO, PROGRAMADO)
+   - Caché de 30 segundos para optimizar llamadas
+   - Soporte para 11 ligas principales
+
+2. Integración en run_all_leagues.py
+   - El visor ahora intenta usar datos reales
+   - Fallback automático a datos simulados si API no está configurada
+   - Sin cambios en la interfaz del usuario
+
+3. Documentación completa
+   - CONFIGURAR_API_FUTBOL.md - Guía paso a paso
+   - Instrucciones para Windows, Linux y Mac
+   - Solución de problemas
+
+═════════════════════════════════════════════════════════════════════════════
+
+LIGAS SOPORTADAS
+─────────────────────────────────────────────────────────────────────────────
+
+✅ Premier League (Inglaterra)
+✅ La Liga (España)
+✅ Bundesliga (Alemania)
+✅ Ligue 1 (Francia)
+✅ Serie A (Italia)
+✅ Brasileirão (Brasil)
+✅ Liga MX (México)
+✅ MLS (USA/Canada)
+✅ Champions League (Europa)
+✅ Copa Libertadores (América del Sur)
+✅ Süper Lig (Turquía)
+❌ NFL (No disponible en football-data.org)
+
+═════════════════════════════════════════════════════════════════════════════
+
+CÓMO CONFIGURAR (3 PASOS SENCILLOS)
+─────────────────────────────────────────────────────────────────────────────
+
+PASO 1: Registrarse en football-data.org
+  → https://www.football-data.org/
+  → Sign Up
+  → Verifica tu email
+
+PASO 2: Obtener tu API Key
+  → Inicia sesión
+  → Ve a Profile
+  → Copia tu API Token
+
+PASO 3: Configurar la variable de entorno
+
+OPCIÓN A - Windows (PowerShell):
+  $env:FOOTBALL_DATA_API_KEY = "tu_api_key_aqui"
+  python run_all_leagues.py
+
+OPCIÓN B - Windows (CMD):
+  set FOOTBALL_DATA_API_KEY=tu_api_key_aqui
+  python run_all_leagues.py
+
+OPCIÓN C - Linux/Mac:
+  export FOOTBALL_DATA_API_KEY="tu_api_key_aqui"
+  python run_all_leagues.py
+
+OPCIÓN D - Archivo .env:
+  1. Crea archivo .env en la carpeta BotSport
+  2. Añade: FOOTBALL_DATA_API_KEY=tu_api_key_aqui
+  3. python run_all_leagues.py
+
+═════════════════════════════════════════════════════════════════════════════
+
+VERIFICAR QUE FUNCIONA
+─────────────────────────────────────────────────────────────────────────────
+
+Después de configurar, ejecuta:
+  python data/live_matches_api.py
+
+Si funciona, verás:
+  Probando API de fútbol en vivo...
+  Encontrados 5 partidos en vivo en Premier League
+  Man City vs Liverpool: 2-1 (LIVE)
+  ...
+
+═════════════════════════════════════════════════════════════════════════════
+
+CÓMO VERÁ EL USUARIO
+─────────────────────────────────────────────────────────────────────────────
+
+ANTES (datos simulados):
+  ================================================================================
+  TRADES EN VIVO (Contador de Tiempo)
+  ================================================================================
+  Fecha y Hora: 10/05/2026 - 14:04:21
+  
+  [PL] Premier League
+  Nottingham Forest vs Bournemouth
+    Marcador: 0-0 | Minuto: 37' | Estado: EN VIVO  ← SIMULADO
+
+DESPUÉS (con API configurada):
+  ================================================================================
+  TRADES EN VIVO (Contador de Tiempo)
+  ================================================================================
+  Fecha y Hora: 10/05/2026 - 14:30:15
+  
+  [PL] Premier League
+  Manchester City vs Liverpool
+    Marcador: 2-1 | Minuto: 67' | Estado: EN VIVO  ← REAL
+
+═════════════════════════════════════════════════════════════════════════════
+
+PLAN GRATUITO DE FOOTBALL-DATA.ORG
+─────────────────────────────────────────────────────────────────────────────
+
+✅ Completamente gratis
+✅ 10 llamadas por minuto (suficiente para el bot)
+✅ Acceso a todas las ligas principales
+✅ Datos actualizados en tiempo real
+✅ No requiere tarjeta de crédito
+
+═════════════════════════════════════════════════════════════════════════════
+
+¿QUÉ PASA SIN API KEY?
+─────────────────────────────────────────────────────────────────────────────
+
+El bot sigue funcionando perfectamente con datos simulados:
+  ✓ Contadores de tiempo precisos
+  ✓ Menú interactivo 100% funcional
+  ✓ Visualización de trades en vivo
+  ✗ Marcadores, minutos y estados ficticios
+
+═════════════════════════════════════════════════════════════════════════════
+
+PRÓXIMOS PASOS
+─────────────────────────────────────────────────────────────────────────────
+
+1. Lee: CONFIGURAR_API_FUTBOL.md
+2. Registrate en football-data.org
+3. Obtén tu API Key
+4. Configura la variable de entorno
+5. Ejecuta: python run_all_leagues.py
+6. Presiona Ctrl+C → Opción 4
+7. ¡Verás datos reales en vivo!
+
+═════════════════════════════════════════════════════════════════════════════
+
+                    ✅ IMPLEMENTACIÓN COMPLETADA
+
+     API integrada y lista para usar con datos reales en vivo
+
+═════════════════════════════════════════════════════════════════════════════

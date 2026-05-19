@@ -1,0 +1,5051 @@
+[
+  {
+    "date": "2025-07-01",
+    "home_team": "Juarez",
+    "away_team": "Guadalajara",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.41423803144786087,
+      "form_10": 0.3789260219991601,
+      "gd": 0.4635296722419684,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.58099196731196,
+      "form_10": 0.5752149110046914,
+      "gd": 0.8581256226316141,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-02",
+    "home_team": "Pumas",
+    "away_team": "Atlante",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6855333986112626,
+      "form_10": 0.4291986524657866,
+      "gd": 0.015315942496180845,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5155299789754424,
+      "form_10": 0.5828712984781859,
+      "gd": -0.31919976100334696,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-03",
+    "home_team": "Bravos",
+    "away_team": "Pachuca",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6706316118185949,
+      "form_10": 0.6059114695928638,
+      "gd": -0.28619793425809703,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5250018202568768,
+      "form_10": 0.35482036939951606,
+      "gd": 0.6761129047651093,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-04",
+    "home_team": "Toluca",
+    "away_team": "Juarez",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5752197346729422,
+      "form_10": 0.4826206216677925,
+      "gd": 0.32171576388676293,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.38518888708615445,
+      "form_10": 0.5739336351807923,
+      "gd": 0.7657582920652011,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-07-05",
+    "home_team": "Tigres",
+    "away_team": "Mexico",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5437996038522412,
+      "form_10": 0.4886631858009958,
+      "gd": 0.9509241634446095,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5505374247520278,
+      "form_10": 0.6434556954575243,
+      "gd": -0.37800694032900195,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-06",
+    "home_team": "Juarez",
+    "away_team": "Atlante",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6674475704262146,
+      "form_10": 0.6394093479138012,
+      "gd": 0.024035308385616516,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.3708860770475841,
+      "form_10": 0.369289810585116,
+      "gd": 0.291117477936629,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-07",
+    "home_team": "Fc Juarez",
+    "away_team": "Queretaro",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.385967567605174,
+      "form_10": 0.35079167224214697,
+      "gd": -0.4901717734189792,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5147363719077509,
+      "form_10": 0.5713491783669512,
+      "gd": -0.23102405688055394,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "home_team": "Mexico",
+    "away_team": "Pachuca",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4877449872842664,
+      "form_10": 0.651861076220481,
+      "gd": -0.3224072154265568,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5549128153947791,
+      "form_10": 0.5846648121662378,
+      "gd": 0.978764727597035,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-02",
+    "home_team": "Atlante",
+    "away_team": "Juarez",
+    "home_goals": 1,
+    "away_goals": 2,
+    "result": "away",
+    "home_stats": {
+      "form_5": 0.6386703956940568,
+      "form_10": 0.5369283333857489,
+      "gd": 0.004181419680214127,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.551057451874773,
+      "form_10": 0.6413949986408258,
+      "gd": 0.6565063400559339,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-08",
+    "home_team": "Monterrey",
+    "away_team": "Toluca",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.38120831209748346,
+      "form_10": 0.595905633690206,
+      "gd": -0.35274402961138657,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5650515247982323,
+      "form_10": 0.580713806356554,
+      "gd": -0.4033763414097924,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-09",
+    "home_team": "Monterrey",
+    "away_team": "Atletico Madrid",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6220640429223185,
+      "form_10": 0.5113097593853934,
+      "gd": 0.8745866571635628,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.47659723092785433,
+      "form_10": 0.6860452192928905,
+      "gd": 0.570291994056981,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-10",
+    "home_team": "Guadalajara",
+    "away_team": "Santos",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5239612106733049,
+      "form_10": 0.6821069561128248,
+      "gd": 0.9505910025995037,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.48823490330629205,
+      "form_10": 0.45511420843850003,
+      "gd": 0.02635003563101579,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-11",
+    "home_team": "Atlante",
+    "away_team": "Juarez",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.38758591289442934,
+      "form_10": 0.4997232100505845,
+      "gd": -0.3156619575436329,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5215997059701899,
+      "form_10": 0.6406207404942632,
+      "gd": 0.9400196787452817,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-12",
+    "home_team": "Cruz Azul",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.6125458471322321,
+      "form_10": 0.6886690766012885,
+      "gd": -0.43364219076228483,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.442700079371779,
+      "form_10": 0.42751597033770894,
+      "gd": 0.46385450478876444,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-13",
+    "home_team": "Queretaro",
+    "away_team": "Pachuca",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.565465253215043,
+      "form_10": 0.4620652228063931,
+      "gd": -0.21468923229034786,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.4065618714017813,
+      "form_10": 0.5035776128534566,
+      "gd": -0.01819966169822218,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-14",
+    "home_team": "Juarez",
+    "away_team": "Cruz Azul",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.4072615900155271,
+      "form_10": 0.3871829149667404,
+      "gd": 0.7271764514663754,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6167674428268006,
+      "form_10": 0.5536490496845559,
+      "gd": 0.8847601392588083,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-07-08",
+    "home_team": "Cruz Azul",
+    "away_team": "Pachuca",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6674613032475984,
+      "form_10": 0.5156625517736981,
+      "gd": 0.06303278536521106,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6811067117866618,
+      "form_10": 0.4630541862014331,
+      "gd": 0.7015296057556535,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-09",
+    "home_team": "Santos",
+    "away_team": "Juarez",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6466426484939993,
+      "form_10": 0.3891781810407384,
+      "gd": 0.7182484332062755,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.43206641297533344,
+      "form_10": 0.440114149041841,
+      "gd": 0.5207048109862669,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-15",
+    "home_team": "Necaxa",
+    "away_team": "Guadalajara",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.42530657909673036,
+      "form_10": 0.5602556686075071,
+      "gd": 0.3439235747296784,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6876275295028612,
+      "form_10": 0.43642227678280565,
+      "gd": -0.16738365841801056,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-16",
+    "home_team": "Pachuca",
+    "away_team": "Guadalajara",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5479482183305046,
+      "form_10": 0.6330477856303651,
+      "gd": 0.6947388588088956,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.38447826269102575,
+      "form_10": 0.41575502943194503,
+      "gd": -0.206310943631333,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-17",
+    "home_team": "Atletico Madrid",
+    "away_team": "Santos",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5229232173790987,
+      "form_10": 0.647021540438451,
+      "gd": -0.023264437007319505,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.49624134348262317,
+      "form_10": 0.4490199583854853,
+      "gd": -0.3933955804687205,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-18",
+    "home_team": "Santos",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.35388345280497197,
+      "form_10": 0.3724798725813083,
+      "gd": -0.0550758834876216,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.36720826026949416,
+      "form_10": 0.4879882765728488,
+      "gd": 0.21789641997682474,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-19",
+    "home_team": "Tigres",
+    "away_team": "Cruz Azul",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.627731367461569,
+      "form_10": 0.35065742492539265,
+      "gd": 0.9237316070827064,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5606758741406149,
+      "form_10": 0.632870020357621,
+      "gd": 0.4460747767946669,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-20",
+    "home_team": "Bravos",
+    "away_team": "Monterrey",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.36291006724910796,
+      "form_10": 0.629135013843385,
+      "gd": 0.7491504101110782,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5022806430629958,
+      "form_10": 0.43095846823513545,
+      "gd": -0.3773179542917194,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-21",
+    "home_team": "Pumas",
+    "away_team": "Juarez",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5049794862775232,
+      "form_10": 0.44903402724638564,
+      "gd": 0.6404328013800968,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4621090402059769,
+      "form_10": 0.687313760258851,
+      "gd": -0.3733624261082643,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-15",
+    "home_team": "Juarez",
+    "away_team": "Guadalajara",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4701227617134963,
+      "form_10": 0.699145328151952,
+      "gd": -0.2605202773903472,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5837517097630995,
+      "form_10": 0.6937775257246679,
+      "gd": -0.49335347788918704,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-16",
+    "home_team": "Pumas",
+    "away_team": "Queretaro",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5146183296250495,
+      "form_10": 0.5878373218886739,
+      "gd": 0.7420681247054557,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6749369981437918,
+      "form_10": 0.38125587830395286,
+      "gd": -0.33535198950915623,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-22",
+    "home_team": "Toluca",
+    "away_team": "Fc Juarez",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6062078640887913,
+      "form_10": 0.5235065852150689,
+      "gd": 0.4976788832788974,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.43680750934957413,
+      "form_10": 0.4706405994005056,
+      "gd": 0.4171817812719658,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-23",
+    "home_team": "Atlante",
+    "away_team": "Guadalajara",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5614739859920496,
+      "form_10": 0.6707549974600464,
+      "gd": 0.6742630098651223,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6428373138105897,
+      "form_10": 0.6758216486507991,
+      "gd": 0.41867113289134283,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-24",
+    "home_team": "Necaxa",
+    "away_team": "Queretaro",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3748169449679599,
+      "form_10": 0.572675483150216,
+      "gd": 0.23161845067621,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4838307483637053,
+      "form_10": 0.4412261097812351,
+      "gd": 0.23280399440522404,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-07-25",
+    "home_team": "Queretaro",
+    "away_team": "Mazatlan",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5537674318732395,
+      "form_10": 0.5771281538734371,
+      "gd": 0.30024249292142113,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.621831008024778,
+      "form_10": 0.6999440674173418,
+      "gd": 0.9367450896870773,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-26",
+    "home_team": "Santos",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.41992959926272244,
+      "form_10": 0.46815946223159455,
+      "gd": 0.5538145627420983,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4604712855421663,
+      "form_10": 0.5998644327929765,
+      "gd": 0.836532976781001,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-27",
+    "home_team": "Cruz Azul",
+    "away_team": "Pachuca",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6290925847813125,
+      "form_10": 0.47669960390614213,
+      "gd": 0.4053118280031833,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5954297067332653,
+      "form_10": 0.42752157371761995,
+      "gd": 0.7578654537957408,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-28",
+    "home_team": "Pumas",
+    "away_team": "Monterrey",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4906214885561407,
+      "form_10": 0.3963473990851949,
+      "gd": -0.329762532319644,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5471008307030296,
+      "form_10": 0.5889214728982651,
+      "gd": 0.12646999360300715,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-22",
+    "home_team": "Guadalajara",
+    "away_team": "Fc Juarez",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4976040071362723,
+      "form_10": 0.5209984089167204,
+      "gd": -0.14597242139554456,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4634051208853775,
+      "form_10": 0.6010625626051762,
+      "gd": 0.636551162986873,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-07-23",
+    "home_team": "Guadalajara",
+    "away_team": "FC Juarez",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5224242718393692,
+      "form_10": 0.6097922493459911,
+      "gd": 0.40673789099908997,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6487118285376519,
+      "form_10": 0.6942123358490884,
+      "gd": -0.34828912994452516,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-29",
+    "home_team": "Pachuca",
+    "away_team": "Fc Juarez",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5890569180668906,
+      "form_10": 0.42979073053758715,
+      "gd": -0.2921398597766937,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5711992916242538,
+      "form_10": 0.4322128499721402,
+      "gd": 0.5211266835688915,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-30",
+    "home_team": "Fc Juarez",
+    "away_team": "Juarez",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5407355827558316,
+      "form_10": 0.5494241082682092,
+      "gd": -0.49559901875180745,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4467791799323901,
+      "form_10": 0.4105908623853362,
+      "gd": -0.21712578009682082,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-07-31",
+    "home_team": "Mexico",
+    "away_team": "Bravos",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3946316353846492,
+      "form_10": 0.5637252290647066,
+      "gd": 0.12854004916076867,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6919828741811196,
+      "form_10": 0.4406252436161242,
+      "gd": 0.28562710719508555,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-01",
+    "home_team": "Queretaro",
+    "away_team": "Cruz Azul",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.4614072708435587,
+      "form_10": 0.6812338300222092,
+      "gd": 0.8892732252487825,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6080219533441618,
+      "form_10": 0.4413186129435989,
+      "gd": -0.4173291375495128,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-02",
+    "home_team": "Queretaro",
+    "away_team": "Bravos",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5140262163468139,
+      "form_10": 0.5162818129228551,
+      "gd": -0.002909017441146078,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.38716572861412996,
+      "form_10": 0.5078676966549192,
+      "gd": 0.6161579350799906,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-03",
+    "home_team": "Atletico Madrid",
+    "away_team": "Pachuca",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5262127983637792,
+      "form_10": 0.5779066145789824,
+      "gd": -0.011128537726968424,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5886175174344422,
+      "form_10": 0.4462276353110268,
+      "gd": 0.6690754591586165,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-04",
+    "home_team": "Guadalajara",
+    "away_team": "Santos",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.4567111182889327,
+      "form_10": 0.6612136940422884,
+      "gd": -0.12216055297549394,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.3800276043446267,
+      "form_10": 0.3998097430141535,
+      "gd": 0.805520633126231,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-07-29",
+    "home_team": "Atletico Madrid",
+    "away_team": "Juarez",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3634507706360969,
+      "form_10": 0.3824583181755259,
+      "gd": -0.06116772707743651,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6070597215967404,
+      "form_10": 0.6516575717254685,
+      "gd": 0.4696309565823583,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-07-30",
+    "home_team": "Monterrey",
+    "away_team": "Pachuca",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.639342350469872,
+      "form_10": 0.5563152204510535,
+      "gd": 0.6335896859826833,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.39111723408752774,
+      "form_10": 0.5053647441650965,
+      "gd": -0.030095279336988967,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-05",
+    "home_team": "Guadalajara",
+    "away_team": "Atlante",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6550535549815344,
+      "form_10": 0.4464268022218967,
+      "gd": 0.9743974207832398,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4436811467284102,
+      "form_10": 0.6296938127401305,
+      "gd": 0.04371114102975182,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-06",
+    "home_team": "Monterrey",
+    "away_team": "Pachuca",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.40649823259990064,
+      "form_10": 0.6872791177782482,
+      "gd": -0.11028604674412656,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.571299745211937,
+      "form_10": 0.6315346844123282,
+      "gd": 0.24802753995681026,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-07",
+    "home_team": "Juarez",
+    "away_team": "Tigres",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.39908865199014504,
+      "form_10": 0.6584532654460256,
+      "gd": -0.3743644729424132,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.660358852088196,
+      "form_10": 0.6189238006703897,
+      "gd": -0.3769232871342287,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-08",
+    "home_team": "Toluca",
+    "away_team": "Tigres",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.36284361335289766,
+      "form_10": 0.5849973941667892,
+      "gd": -0.04234794319224333,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.47262910659548385,
+      "form_10": 0.36440633166229974,
+      "gd": 0.9133980776283279,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-09",
+    "home_team": "FC Juarez",
+    "away_team": "Necaxa",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.545818817375239,
+      "form_10": 0.5377323511220358,
+      "gd": 0.8205841112123016,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.4780888166582642,
+      "form_10": 0.3844208051577616,
+      "gd": -0.18328017777193012,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-10",
+    "home_team": "Cruz Azul",
+    "away_team": "Monterrey",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.6614650514878292,
+      "form_10": 0.6058503819358476,
+      "gd": -0.05275655588826089,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6055955916855218,
+      "form_10": 0.5229441535143302,
+      "gd": 0.5634557186255269,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-11",
+    "home_team": "Guadalajara",
+    "away_team": "Queretaro",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5881195693222712,
+      "form_10": 0.4891975794125818,
+      "gd": -0.10450614374454703,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4925389356974333,
+      "form_10": 0.5735898168631459,
+      "gd": 0.16276975611308142,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-05",
+    "home_team": "Santos",
+    "away_team": "Tigres",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.665235673109736,
+      "form_10": 0.6605299525040715,
+      "gd": -0.11444851804803319,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6392872331146335,
+      "form_10": 0.5178386934090741,
+      "gd": -0.38296455310548194,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-06",
+    "home_team": "Santos",
+    "away_team": "Atlante",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6222157752055042,
+      "form_10": 0.6842617895387646,
+      "gd": 0.8017050662813228,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4070160596995497,
+      "form_10": 0.3718885818170053,
+      "gd": 0.8636318951443331,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-08-12",
+    "home_team": "Necaxa",
+    "away_team": "Santos",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.65559044035461,
+      "form_10": 0.4169884594046112,
+      "gd": 0.5963611953194472,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5306246957695308,
+      "form_10": 0.4840918058440828,
+      "gd": 0.17982635042974948,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-13",
+    "home_team": "Bravos",
+    "away_team": "Necaxa",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4646540596554158,
+      "form_10": 0.6117655829255741,
+      "gd": 0.18461568986375365,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4599513571135023,
+      "form_10": 0.5698015154238083,
+      "gd": -0.11536412712918787,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-14",
+    "home_team": "Mexico",
+    "away_team": "Pachuca",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.49153011822161286,
+      "form_10": 0.6412701294141403,
+      "gd": 0.38692378067496314,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5818660906273211,
+      "form_10": 0.6116641062291692,
+      "gd": 0.40870100030217626,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-15",
+    "home_team": "Fc Juarez",
+    "away_team": "Atlante",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.45856575318814785,
+      "form_10": 0.4502788702582036,
+      "gd": -0.3665933671323464,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6026206414491828,
+      "form_10": 0.4663408725992091,
+      "gd": 0.6061375524738954,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-16",
+    "home_team": "Pachuca",
+    "away_team": "Pumas",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5411618332135532,
+      "form_10": 0.35630007685998294,
+      "gd": 0.06803704967898583,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.39026450952193475,
+      "form_10": 0.46131506024678687,
+      "gd": 0.22546801410364004,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-17",
+    "home_team": "Mexico",
+    "away_team": "Santos",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.522914995457396,
+      "form_10": 0.44831258132144525,
+      "gd": 0.8510158332648485,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6792544929132591,
+      "form_10": 0.6494892866146631,
+      "gd": -0.41250855337227094,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-08-18",
+    "home_team": "Mazatlan",
+    "away_team": "Toluca",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3985754871226359,
+      "form_10": 0.6419391251423294,
+      "gd": -0.40293060420439425,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5296526968420852,
+      "form_10": 0.3689712945744175,
+      "gd": 0.3159725319231593,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-12",
+    "home_team": "Necaxa",
+    "away_team": "Atlante",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6244575814546642,
+      "form_10": 0.3697022434006807,
+      "gd": 0.10953888237603282,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6843943852189417,
+      "form_10": 0.47553240863472357,
+      "gd": 0.33444919943674034,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-13",
+    "home_team": "Cruz Azul",
+    "away_team": "Guadalajara",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6512100315366947,
+      "form_10": 0.5085097213710019,
+      "gd": 0.29783845896886985,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4461319781998062,
+      "form_10": 0.5185644625751494,
+      "gd": 0.16983559641836932,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-08-19",
+    "home_team": "Mazatlan",
+    "away_team": "Juarez",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6071521953843377,
+      "form_10": 0.36230815312648107,
+      "gd": -0.3867897263123234,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5576366648753047,
+      "form_10": 0.36878258996362334,
+      "gd": 0.09457188838681385,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-20",
+    "home_team": "Atlante",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6890983979410183,
+      "form_10": 0.6611053656470749,
+      "gd": -0.09078585673758871,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5084660848075924,
+      "form_10": 0.6086059028146851,
+      "gd": 0.4335311717160897,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-21",
+    "home_team": "Queretaro",
+    "away_team": "Guadalajara",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.39850961537745266,
+      "form_10": 0.5784924045834345,
+      "gd": 0.8649393527244669,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5502423716617204,
+      "form_10": 0.6213666722417865,
+      "gd": -0.49363982425574765,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-22",
+    "home_team": "Juarez",
+    "away_team": "Atletico Madrid",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.6095479490538269,
+      "form_10": 0.5776441341240853,
+      "gd": 0.6077082875293762,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4754084583598259,
+      "form_10": 0.3577804278270507,
+      "gd": 0.5587503093747301,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-23",
+    "home_team": "Cruz Azul",
+    "away_team": "Guadalajara",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5682781865528491,
+      "form_10": 0.5507644233568034,
+      "gd": 0.9898214185019372,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6499058885640059,
+      "form_10": 0.4234247430648325,
+      "gd": -0.14815559732940325,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-24",
+    "home_team": "Tigres",
+    "away_team": "Cruz Azul",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.40328327729896546,
+      "form_10": 0.39666483053084545,
+      "gd": -0.472272101325626,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.55268950333265,
+      "form_10": 0.6036289945663404,
+      "gd": -0.3580927434789884,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-08-25",
+    "home_team": "Atletico Madrid",
+    "away_team": "Pumas",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5015641423187058,
+      "form_10": 0.3670737024242751,
+      "gd": 0.03440270753828778,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4493777783428586,
+      "form_10": 0.5254289702301451,
+      "gd": 0.3863314885578808,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-19",
+    "home_team": "FC Juarez",
+    "away_team": "Santos",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5534533064063264,
+      "form_10": 0.5106311027659035,
+      "gd": -0.3061490788090307,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6322479643778338,
+      "form_10": 0.561914173095161,
+      "gd": 0.6595752998793794,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-20",
+    "home_team": "Atlante",
+    "away_team": "Monterrey",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.37020264287507515,
+      "form_10": 0.4445582390003212,
+      "gd": 0.08725287248586511,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5142933375488794,
+      "form_10": 0.539970061258154,
+      "gd": 0.890057021705656,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-26",
+    "home_team": "Fc Juarez",
+    "away_team": "Atlante",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3606517198833551,
+      "form_10": 0.6101523925750378,
+      "gd": -0.10611736234521796,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6032249603187674,
+      "form_10": 0.4495597216624257,
+      "gd": -0.15890321335968194,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-27",
+    "home_team": "Cruz Azul",
+    "away_team": "Guadalajara",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4956314141541128,
+      "form_10": 0.6322559160711336,
+      "gd": -0.4007904001825238,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.681733410558345,
+      "form_10": 0.6778453261615087,
+      "gd": -0.1119356539849109,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-28",
+    "home_team": "Bravos",
+    "away_team": "Monterrey",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6992567268433272,
+      "form_10": 0.47501772739480685,
+      "gd": 0.33986513303132204,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.3607307121088381,
+      "form_10": 0.49276971793842267,
+      "gd": 0.5382359592680825,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-08-29",
+    "home_team": "Necaxa",
+    "away_team": "Juarez",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5689974742718746,
+      "form_10": 0.6710151534073563,
+      "gd": -0.4721482090450234,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.407892270940475,
+      "form_10": 0.4813800501021904,
+      "gd": -0.12490416865243892,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-08-30",
+    "home_team": "Bravos",
+    "away_team": "Santos",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.4796136702521347,
+      "form_10": 0.5143151514000932,
+      "gd": -0.43678300027710326,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.41382572570987997,
+      "form_10": 0.5386639770364063,
+      "gd": -0.43413165347481886,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-31",
+    "home_team": "Pachuca",
+    "away_team": "FC Juarez",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4625531002654304,
+      "form_10": 0.5999333034174321,
+      "gd": 0.8710816249653108,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.3905148623713959,
+      "form_10": 0.4976872860152336,
+      "gd": 0.5388206747844924,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-01",
+    "home_team": "Atlante",
+    "away_team": "Juarez",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.544092452522543,
+      "form_10": 0.5867772531879868,
+      "gd": 0.392843735468396,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.48332497684839476,
+      "form_10": 0.5740467700234495,
+      "gd": 0.08886271901293141,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-08-26",
+    "home_team": "Monterrey",
+    "away_team": "Necaxa",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6312392238025054,
+      "form_10": 0.3595185777138927,
+      "gd": 0.7950180858462961,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.397070173252487,
+      "form_10": 0.5452202748777517,
+      "gd": -0.2507208737962358,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-08-27",
+    "home_team": "FC Juarez",
+    "away_team": "Mazatlan",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5318733311572262,
+      "form_10": 0.3665726514115777,
+      "gd": -0.4651174992231895,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6581312555135744,
+      "form_10": 0.4773481111378196,
+      "gd": 0.1809569969814,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-02",
+    "home_team": "Atletico Madrid",
+    "away_team": "Mazatlan",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5559191101401096,
+      "form_10": 0.5958637262113686,
+      "gd": 0.48555628758717706,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5394533719150424,
+      "form_10": 0.5560449069605647,
+      "gd": -0.44661804998907995,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-03",
+    "home_team": "FC Juarez",
+    "away_team": "Juarez",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5477854583696482,
+      "form_10": 0.41188536041776164,
+      "gd": 0.06662592171392445,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.567139495760441,
+      "form_10": 0.5937464519958765,
+      "gd": -0.47240554623064546,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-04",
+    "home_team": "Pumas",
+    "away_team": "FC Juarez",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6457329884207494,
+      "form_10": 0.4262667988318989,
+      "gd": 0.15557002520405305,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.51426111117783,
+      "form_10": 0.528380072189133,
+      "gd": -0.48713140386151066,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-05",
+    "home_team": "Tigres",
+    "away_team": "FC Juarez",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5892339502568331,
+      "form_10": 0.4228090707087228,
+      "gd": 0.5392416405842688,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6126856874337934,
+      "form_10": 0.6647689166322195,
+      "gd": 0.897163737272912,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-06",
+    "home_team": "Bravos",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.40289954739495887,
+      "form_10": 0.5432080376588727,
+      "gd": -0.19300087694835727,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.622492131835759,
+      "form_10": 0.40410244723763383,
+      "gd": 0.3780316497131597,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-07",
+    "home_team": "Atlante",
+    "away_team": "Tigres",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.38380842818856337,
+      "form_10": 0.5667697751317858,
+      "gd": 0.13106560463259287,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.46282642426057274,
+      "form_10": 0.41390677873332293,
+      "gd": -0.17209510962323926,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-08",
+    "home_team": "Monterrey",
+    "away_team": "Mexico",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.43448695272570464,
+      "form_10": 0.5937576113958,
+      "gd": -0.07544377578829975,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6686747920908482,
+      "form_10": 0.5470010574682771,
+      "gd": 0.16486553501495127,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-02",
+    "home_team": "Atlante",
+    "away_team": "Tigres",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6358169458784197,
+      "form_10": 0.4852116002047865,
+      "gd": 0.5577990500536794,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4705932585014558,
+      "form_10": 0.6283856768460119,
+      "gd": 0.39924137442584917,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-03",
+    "home_team": "Juarez",
+    "away_team": "Necaxa",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5337607176195737,
+      "form_10": 0.4941681181465557,
+      "gd": 0.0111228989461859,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5451917256630029,
+      "form_10": 0.6311227192157289,
+      "gd": 0.7476507836208697,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-09",
+    "home_team": "Juarez",
+    "away_team": "Pachuca",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.651720095291228,
+      "form_10": 0.6746352716707922,
+      "gd": 0.9884974345627378,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.46867607684249535,
+      "form_10": 0.6168594379916789,
+      "gd": -0.2154660521412221,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-10",
+    "home_team": "Monterrey",
+    "away_team": "Mexico",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3933353752529408,
+      "form_10": 0.38353287284031307,
+      "gd": -0.2988478095712125,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5828523699896679,
+      "form_10": 0.5705299064423968,
+      "gd": 0.7983291641869759,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-11",
+    "home_team": "Mexico",
+    "away_team": "Toluca",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.381105541444857,
+      "form_10": 0.46786573715553886,
+      "gd": 0.40284986348084184,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5534422702051309,
+      "form_10": 0.46396263864522935,
+      "gd": -0.09843392903901294,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-12",
+    "home_team": "Mazatlan",
+    "away_team": "Cruz Azul",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5282915033519762,
+      "form_10": 0.5102346419514018,
+      "gd": 0.0816369938242878,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5067759833984098,
+      "form_10": 0.42841864402790664,
+      "gd": -0.484107599340427,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-13",
+    "home_team": "Atlante",
+    "away_team": "Monterrey",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6909151635055102,
+      "form_10": 0.6323201150403044,
+      "gd": -0.34287719528566357,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6259878172697615,
+      "form_10": 0.5537136300887857,
+      "gd": 0.6435635517559775,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-14",
+    "home_team": "Monterrey",
+    "away_team": "Pachuca",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.37141164777841434,
+      "form_10": 0.6470485369531653,
+      "gd": -0.17053232186209144,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.39795180540476144,
+      "form_10": 0.6001199207786267,
+      "gd": -0.1494593956633643,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-15",
+    "home_team": "Pachuca",
+    "away_team": "Fc Juarez",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3531515329839599,
+      "form_10": 0.46575325585529326,
+      "gd": 0.9559733238312098,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6103602720336851,
+      "form_10": 0.6587382508380453,
+      "gd": 0.6755637091986895,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-09",
+    "home_team": "Juarez",
+    "away_team": "Mexico",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4835985183744461,
+      "form_10": 0.48816280998401873,
+      "gd": 0.39129993504383065,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4095887390223906,
+      "form_10": 0.4728701119635169,
+      "gd": 0.5148686709881416,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-10",
+    "home_team": "FC Juarez",
+    "away_team": "Mexico",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.6063033689216379,
+      "form_10": 0.6052080739975713,
+      "gd": 0.6226953152788455,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.4280303410170585,
+      "form_10": 0.6116374963159676,
+      "gd": -0.06941462279110111,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-16",
+    "home_team": "Toluca",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.48686721203839894,
+      "form_10": 0.6117654021983747,
+      "gd": -0.42153490109008646,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5189237502316449,
+      "form_10": 0.6906242531645232,
+      "gd": 0.13824195998370814,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-17",
+    "home_team": "Guadalajara",
+    "away_team": "Toluca",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.44869525224511125,
+      "form_10": 0.6218896494442328,
+      "gd": -0.16087605789454668,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4290626605670053,
+      "form_10": 0.652075153820572,
+      "gd": -0.0833177173652685,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-18",
+    "home_team": "Pumas",
+    "away_team": "Pachuca",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5111175392752773,
+      "form_10": 0.6371583666072278,
+      "gd": 0.36529210152603997,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6584369212256796,
+      "form_10": 0.3976800289321943,
+      "gd": 0.36293248127606337,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-19",
+    "home_team": "Bravos",
+    "away_team": "Mexico",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.44763691166545266,
+      "form_10": 0.37027786408262425,
+      "gd": 0.9250112663841867,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6773891124467029,
+      "form_10": 0.6253387871532341,
+      "gd": -0.061073118476670074,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-20",
+    "home_team": "Cruz Azul",
+    "away_team": "Mazatlan",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.351778723248243,
+      "form_10": 0.3696403699154153,
+      "gd": -0.13200245697634178,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6232785159249188,
+      "form_10": 0.4099144636828628,
+      "gd": 0.3847380575814574,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-21",
+    "home_team": "Monterrey",
+    "away_team": "FC Juarez",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.49047296447362093,
+      "form_10": 0.6760354427272111,
+      "gd": 0.5731169972097747,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.35037447671195243,
+      "form_10": 0.6328094648738284,
+      "gd": 0.7818908485892433,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-22",
+    "home_team": "Mexico",
+    "away_team": "Mazatlan",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.48377161762402165,
+      "form_10": 0.6873992043609176,
+      "gd": -0.13988729320656573,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.46062038746270406,
+      "form_10": 0.6246279481384203,
+      "gd": -0.34033038967429996,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-16",
+    "home_team": "Queretaro",
+    "away_team": "Pumas",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4220377934110809,
+      "form_10": 0.6523207218555827,
+      "gd": 0.5079706197257787,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6599871497973517,
+      "form_10": 0.4229907944616446,
+      "gd": 0.9520989732264513,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-17",
+    "home_team": "Atlante",
+    "away_team": "Mexico",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6822771894471329,
+      "form_10": 0.3623438945857685,
+      "gd": 0.6638105347847241,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.41320929501947673,
+      "form_10": 0.518610594158707,
+      "gd": -0.38928075524888833,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-23",
+    "home_team": "Pumas",
+    "away_team": "FC Juarez",
+    "home_goals": 0,
+    "away_goals": 3,
+    "result": "away",
+    "home_stats": {
+      "form_5": 0.5099682224215284,
+      "form_10": 0.5847287915892948,
+      "gd": 0.29293565868059324,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.3751598453134332,
+      "form_10": 0.45078464178029104,
+      "gd": 0.8264469184998413,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-24",
+    "home_team": "Pachuca",
+    "away_team": "Juarez",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.54818054344281,
+      "form_10": 0.6758839321986003,
+      "gd": 0.033185015116215855,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.40896761518052605,
+      "form_10": 0.40286734519666106,
+      "gd": 0.24393063639468116,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-09-25",
+    "home_team": "Queretaro",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.48909442117993934,
+      "form_10": 0.4720552430537354,
+      "gd": 0.4996119015255589,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6350538549656985,
+      "form_10": 0.5443352545737569,
+      "gd": 0.5752996689022445,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-26",
+    "home_team": "Necaxa",
+    "away_team": "Mazatlan",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6154072509796829,
+      "form_10": 0.5692045475273722,
+      "gd": 0.5263070673641637,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6333434815053507,
+      "form_10": 0.592928657154411,
+      "gd": 0.9978129537211144,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-27",
+    "home_team": "Guadalajara",
+    "away_team": "Toluca",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6551354007853878,
+      "form_10": 0.5353161264900782,
+      "gd": 0.39530373763141335,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.428848597109234,
+      "form_10": 0.35676097135559964,
+      "gd": 0.11239173059463403,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-28",
+    "home_team": "Juarez",
+    "away_team": "Fc Juarez",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.4280879810849297,
+      "form_10": 0.37603978935625426,
+      "gd": 0.8555837153247787,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.582594458060242,
+      "form_10": 0.37208245053809624,
+      "gd": 0.30027058325391975,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-09-29",
+    "home_team": "Atlante",
+    "away_team": "Juarez",
+    "home_goals": 0,
+    "away_goals": 1,
+    "result": "away",
+    "home_stats": {
+      "form_5": 0.426630450224047,
+      "form_10": 0.41629325949669066,
+      "gd": 0.8779277488932427,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.35640078447891277,
+      "form_10": 0.38926640817214875,
+      "gd": 0.6894594372239351,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-23",
+    "home_team": "Toluca",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.43854797979054794,
+      "form_10": 0.3718762902016435,
+      "gd": -0.1374824952224578,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.49775571517323874,
+      "form_10": 0.43730844938760255,
+      "gd": 0.8947130880107557,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-09-24",
+    "home_team": "Bravos",
+    "away_team": "Toluca",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.548348524300809,
+      "form_10": 0.55137475400452,
+      "gd": 0.5797218690727868,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5714859172859869,
+      "form_10": 0.36734179595788025,
+      "gd": 0.1208721338298192,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-30",
+    "home_team": "Atletico Madrid",
+    "away_team": "Necaxa",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5452882178871314,
+      "form_10": 0.44298811878290356,
+      "gd": 0.15645158023454953,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6571439841678948,
+      "form_10": 0.6697254029696744,
+      "gd": -0.21193485907283072,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "home_team": "Necaxa",
+    "away_team": "Tigres",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.49044968046770365,
+      "form_10": 0.4346379565604623,
+      "gd": 0.4743313691207758,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.4057734052388078,
+      "form_10": 0.6698858091428388,
+      "gd": -0.09280635550333932,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-02",
+    "home_team": "Bravos",
+    "away_team": "Juarez",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5668731655117347,
+      "form_10": 0.5840942710815712,
+      "gd": 0.3681112990167541,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4973803756057066,
+      "form_10": 0.42429449779018574,
+      "gd": -0.28491217863189183,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-03",
+    "home_team": "Atletico Madrid",
+    "away_team": "Queretaro",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6338811039143828,
+      "form_10": 0.6614237189242349,
+      "gd": -0.25688726327959427,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.43767092990277007,
+      "form_10": 0.6975122652715162,
+      "gd": 0.2978688043110056,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-04",
+    "home_team": "Monterrey",
+    "away_team": "Guadalajara",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4207373507302222,
+      "form_10": 0.6496675874995901,
+      "gd": -0.18914655183819834,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6249903672575989,
+      "form_10": 0.6516503272560024,
+      "gd": -0.34205809568819057,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-05",
+    "home_team": "FC Juarez",
+    "away_team": "Juarez",
+    "home_goals": 0,
+    "away_goals": 3,
+    "result": "away",
+    "home_stats": {
+      "form_5": 0.6570745580197956,
+      "form_10": 0.5184589019283492,
+      "gd": 0.40505536227647765,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6226741858831475,
+      "form_10": 0.6136307385099846,
+      "gd": 0.11774276283475849,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-06",
+    "home_team": "Guadalajara",
+    "away_team": "FC Juarez",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4095793974386714,
+      "form_10": 0.6619676758988772,
+      "gd": -0.1499691410580763,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6412601895595378,
+      "form_10": 0.6159134089805363,
+      "gd": 0.5863371339459114,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-09-30",
+    "home_team": "Bravos",
+    "away_team": "Pumas",
+    "home_goals": 1,
+    "away_goals": 3,
+    "result": "away",
+    "home_stats": {
+      "form_5": 0.5569500994029779,
+      "form_10": 0.5889227365021137,
+      "gd": -0.23148274229818766,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.623102641144106,
+      "form_10": 0.5143335950325736,
+      "gd": 0.08903953041374302,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-01",
+    "home_team": "Santos",
+    "away_team": "Mazatlan",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6492189053678746,
+      "form_10": 0.5464561372497361,
+      "gd": 0.0001373253261990337,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.35098481109553675,
+      "form_10": 0.6804344480670619,
+      "gd": 0.694322845321449,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-07",
+    "home_team": "Pachuca",
+    "away_team": "FC Juarez",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4368187890012764,
+      "form_10": 0.6520258785585858,
+      "gd": -0.1348899886288325,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6619207567381605,
+      "form_10": 0.6312960361543138,
+      "gd": -0.10368562354163391,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "home_team": "Tigres",
+    "away_team": "Mazatlan",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4031974945538587,
+      "form_10": 0.5246008344772859,
+      "gd": 0.8896305286553756,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6313844688358365,
+      "form_10": 0.6956304936920892,
+      "gd": -0.40979400796899507,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-10-09",
+    "home_team": "Monterrey",
+    "away_team": "Fc Juarez",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.391398252191441,
+      "form_10": 0.5702327138349843,
+      "gd": 0.7659177787295408,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.653362645414475,
+      "form_10": 0.5926695807711051,
+      "gd": 0.8669800055376,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-10",
+    "home_team": "Santos",
+    "away_team": "Necaxa",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4190358476232144,
+      "form_10": 0.467873065730975,
+      "gd": 0.08709661446817207,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6529148872281874,
+      "form_10": 0.517987701962557,
+      "gd": -0.4329069314955616,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-11",
+    "home_team": "FC Juarez",
+    "away_team": "Monterrey",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.499534564158517,
+      "form_10": 0.5107266907722217,
+      "gd": 0.5926980021852717,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.3534588964664058,
+      "form_10": 0.5522142311143456,
+      "gd": -0.11853571636209143,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-12",
+    "home_team": "Monterrey",
+    "away_team": "Mexico",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3725698802797757,
+      "form_10": 0.6007321243663458,
+      "gd": 0.9506004010682934,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6210527544636693,
+      "form_10": 0.6023636639016923,
+      "gd": 0.1637409330857469,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-13",
+    "home_team": "Fc Juarez",
+    "away_team": "Pachuca",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5176333220978815,
+      "form_10": 0.6663528624858521,
+      "gd": -0.14043587267230312,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.4032693283065617,
+      "form_10": 0.6999144607858208,
+      "gd": 0.6828593071758156,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-07",
+    "home_team": "Atlante",
+    "away_team": "Queretaro",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.38759517435443325,
+      "form_10": 0.5298143465700128,
+      "gd": -0.4346420012215078,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6151139086995259,
+      "form_10": 0.5384691085920773,
+      "gd": 0.37258750494719317,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-08",
+    "home_team": "Bravos",
+    "away_team": "Necaxa",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.44858350773074446,
+      "form_10": 0.6760236803644699,
+      "gd": 0.6192231608800765,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.5200684131474823,
+      "form_10": 0.44114767333985816,
+      "gd": 0.6501561207483408,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-14",
+    "home_team": "Santos",
+    "away_team": "Monterrey",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5712533925766539,
+      "form_10": 0.5116390436351401,
+      "gd": 0.24637013221124682,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.41486640504076605,
+      "form_10": 0.5896104847962023,
+      "gd": -0.185959825374875,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 7,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-10-15",
+    "home_team": "FC Juarez",
+    "away_team": "Guadalajara",
+    "home_goals": 0,
+    "away_goals": 3,
+    "result": "away",
+    "home_stats": {
+      "form_5": 0.4301791705658761,
+      "form_10": 0.555816144162488,
+      "gd": 0.4039255518399246,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.38001576443692386,
+      "form_10": 0.4013360003918248,
+      "gd": 0.38510097091743656,
+      "strength": 0.06000000000000005,
+      "attack_strength": 0.06000000000000005,
+      "defense_strength": 0.06000000000000005,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-10-16",
+    "home_team": "FC Juarez",
+    "away_team": "Santos",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.47811610737416277,
+      "form_10": 0.566846190721206,
+      "gd": 0.6530014852551407,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.586059264777137,
+      "form_10": 0.5524741054527019,
+      "gd": -0.2540434180475054,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-17",
+    "home_team": "Toluca",
+    "away_team": "Bravos",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.4553009321347033,
+      "form_10": 0.6652963058807632,
+      "gd": -0.16737633074388325,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.568814313320233,
+      "form_10": 0.6081576262995542,
+      "gd": -0.3494192237507437,
+      "strength": -0.09999999999999998,
+      "attack_strength": -0.09999999999999998,
+      "defense_strength": -0.09999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-18",
+    "home_team": "Necaxa",
+    "away_team": "Tigres",
+    "home_goals": 3,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.555611455915626,
+      "form_10": 0.618740132680224,
+      "gd": 0.20380107103495682,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.4252507436763482,
+      "form_10": 0.4983195700429625,
+      "gd": 0.23353270890890254,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 4,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-19",
+    "home_team": "Pachuca",
+    "away_team": "FC Juarez",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5066387736929652,
+      "form_10": 0.408536106950229,
+      "gd": 0.7284641274821306,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5729453581166746,
+      "form_10": 0.42738585099073056,
+      "gd": 0.7696917687394302,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 0
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "home_team": "Pumas",
+    "away_team": "Tigres",
+    "home_goals": 1,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5081869913126126,
+      "form_10": 0.5852788248646277,
+      "gd": 0.643498539859692,
+      "strength": -0.030000000000000027,
+      "attack_strength": -0.030000000000000027,
+      "defense_strength": -0.030000000000000027,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6416942652680406,
+      "form_10": 0.35740912741220404,
+      "gd": 0.50952290161648,
+      "strength": 0.12,
+      "attack_strength": 0.12,
+      "defense_strength": 0.12,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-14",
+    "home_team": "Necaxa",
+    "away_team": "Mexico",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.5170831967707696,
+      "form_10": 0.5380382567797856,
+      "gd": 0.17673158069488693,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6776014814155071,
+      "form_10": 0.6448027869406822,
+      "gd": 0.27273128016326154,
+      "strength": 0.15000000000000002,
+      "attack_strength": 0.15000000000000002,
+      "defense_strength": 0.15000000000000002,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-15",
+    "home_team": "Atlante",
+    "away_team": "Queretaro",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6314391309061396,
+      "form_10": 0.5091628121247701,
+      "gd": 0.3303100721764384,
+      "strength": -0.12,
+      "attack_strength": -0.12,
+      "defense_strength": -0.12,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6882251594765059,
+      "form_10": 0.3882412771834932,
+      "gd": -0.21013774730086532,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "home_team": "Queretaro",
+    "away_team": "Cruz Azul",
+    "home_goals": 2,
+    "away_goals": 0,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.46420826068237675,
+      "form_10": 0.4346693335466135,
+      "gd": 0.774017040859649,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.6726856433736281,
+      "form_10": 0.627330474386464,
+      "gd": 0.05782784222965798,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 0,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "home_team": "FC Juarez",
+    "away_team": "Atletico Madrid",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.38519840500597413,
+      "form_10": 0.3955222232193324,
+      "gd": -0.38512224765980074,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.49910002672460707,
+      "form_10": 0.4083220873360009,
+      "gd": 0.602968362457982,
+      "strength": 0.0,
+      "attack_strength": 0.0,
+      "defense_strength": 0.0,
+      "days_rest": 6,
+      "matches_last_7days": 1
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-23",
+    "home_team": "Monterrey",
+    "away_team": "Cruz Azul",
+    "home_goals": 2,
+    "away_goals": 2,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.5601651780608926,
+      "form_10": 0.358661354213088,
+      "gd": 0.015483749203857977,
+      "strength": 0.07999999999999996,
+      "attack_strength": 0.07999999999999996,
+      "defense_strength": 0.07999999999999996,
+      "days_rest": 3,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6186051520065949,
+      "form_10": 0.46535628037044796,
+      "gd": 0.5300031141470112,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 1,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-24",
+    "home_team": "Queretaro",
+    "away_team": "Pachuca",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "draw",
+    "home_stats": {
+      "form_5": 0.4718432962269695,
+      "form_10": 0.6562155352124857,
+      "gd": 0.45851217570301117,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 3,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.6414718069679853,
+      "form_10": 0.6047829050772897,
+      "gd": 0.4983056796626344,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 4,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 0,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-25",
+    "home_team": "Mazatlan",
+    "away_team": "Pachuca",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.635272385410145,
+      "form_10": 0.696230507611896,
+      "gd": -0.09711014541477653,
+      "strength": -0.08000000000000002,
+      "attack_strength": -0.08000000000000002,
+      "defense_strength": -0.08000000000000002,
+      "days_rest": 5,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.5588371845544141,
+      "form_10": 0.6333731807865426,
+      "gd": 0.39872812565034665,
+      "strength": 0.020000000000000018,
+      "attack_strength": 0.020000000000000018,
+      "defense_strength": 0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-26",
+    "home_team": "Toluca",
+    "away_team": "Cruz Azul",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.6791630097860364,
+      "form_10": 0.6687793862868672,
+      "gd": 0.915372685099995,
+      "strength": 0.010000000000000009,
+      "attack_strength": 0.010000000000000009,
+      "defense_strength": 0.010000000000000009,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "away_stats": {
+      "form_5": 0.39737023618678813,
+      "form_10": 0.5801395745918356,
+      "gd": 0.11831300102993747,
+      "strength": -0.03999999999999998,
+      "attack_strength": -0.03999999999999998,
+      "defense_strength": -0.03999999999999998,
+      "days_rest": 6,
+      "matches_last_7days": 2
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 2,
+      "away_wins": 3
+    }
+  },
+  {
+    "date": "2025-10-27",
+    "home_team": "Juarez",
+    "away_team": "FC Juarez",
+    "home_goals": 1,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3540003281288863,
+      "form_10": 0.47099549376632777,
+      "gd": -0.044735412290690835,
+      "strength": -0.15000000000000002,
+      "attack_strength": -0.15000000000000002,
+      "defense_strength": -0.15000000000000002,
+      "days_rest": 4,
+      "matches_last_7days": 1
+    },
+    "away_stats": {
+      "form_5": 0.6902633614663296,
+      "form_10": 0.4375853033865745,
+      "gd": 0.637106675623285,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 5,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 3,
+      "draws": 0,
+      "away_wins": 1
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "home_team": "Necaxa",
+    "away_team": "FC Juarez",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.53026033788055,
+      "form_10": 0.6424294790171959,
+      "gd": 0.4107928558439633,
+      "strength": -0.020000000000000018,
+      "attack_strength": -0.020000000000000018,
+      "defense_strength": -0.020000000000000018,
+      "days_rest": 7,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.4846024337855043,
+      "form_10": 0.3914145993654215,
+      "gd": 0.5969765085540502,
+      "strength": -0.14,
+      "attack_strength": -0.14,
+      "defense_strength": -0.14,
+      "days_rest": 3,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 2,
+      "draws": 1,
+      "away_wins": 2
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "home_team": "Santos",
+    "away_team": "Queretaro",
+    "home_goals": 3,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.3966613752826232,
+      "form_10": 0.4063119914558909,
+      "gd": 0.5267832389273621,
+      "strength": -0.04999999999999999,
+      "attack_strength": -0.04999999999999999,
+      "defense_strength": -0.04999999999999999,
+      "days_rest": 5,
+      "matches_last_7days": 2
+    },
+    "away_stats": {
+      "form_5": 0.5310517402850895,
+      "form_10": 0.42229836801101917,
+      "gd": 0.6568717236943815,
+      "strength": -0.06,
+      "attack_strength": -0.06,
+      "defense_strength": -0.06,
+      "days_rest": 7,
+      "matches_last_7days": 0
+    },
+    "h2h": {
+      "home_wins": 1,
+      "draws": 2,
+      "away_wins": 1
+    }
+  }
+]

@@ -1,0 +1,1334 @@
+[
+  {
+    "date": "2023-08-01",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-04",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-07",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-10",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-16",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-22",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-25",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-28",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-08-31",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-09-06",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-09-12",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-09-15",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-09-18",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-09-21",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-09-27",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-03",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-06",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-09",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-12",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-18",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-24",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-27",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-10-30",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-02",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-08",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-14",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-17",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-20",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-23",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-11-29",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-05",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-08",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-11",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-14",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-20",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-26",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2023-12-29",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-01",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-04",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-10",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-16",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-19",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-22",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-25",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-01-31",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-02-06",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-02-09",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-02-12",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-02-15",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-02-21",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-02-27",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-01",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-04",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-07",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-13",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-19",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-22",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-25",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-03-28",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-03",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-09",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-12",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-15",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-18",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-24",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-04-30",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-03",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-06",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-09",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-15",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-21",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-24",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-27",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  },
+  {
+    "date": "2024-05-30",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "home_goals": 2,
+    "away_goals": 1,
+    "result": "home",
+    "home_stats": {
+      "form_5": 0.7,
+      "gd": 0.15,
+      "h2h_wins": 2
+    },
+    "away_stats": {
+      "form_5": 0.5,
+      "gd": -0.1,
+      "h2h_wins": 0
+    }
+  }
+]

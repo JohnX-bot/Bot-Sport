@@ -1,0 +1,56 @@
+# =============================================
+#  BotSport - .gitignore
+# =============================================
+
+# ---- Claves privadas / credenciales ----
+.env
+*.env
+secrets.py
+
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# ---- Entornos virtuales ----
+venv/
+env/
+.venv/
+python/
+*.egg-info/
+
+# ---- Caché de fixtures (regenerables) ----
+*_fixtures_cache.json
+fixtures_cache.json
+
+# ---- Reporte HTML generado ----
+report.html
+
+# ---- Logs ----
+logs/
+*.log
+
+# ---- Historial de predicciones (datos personales) ----
+data/predictions_history.json
+
+# ---- Claude Code internos ----
+.claude/
+
+# ---- IDEs ----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---- Sistema operativo ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Archivos temporales ----
+*.tmp
+*.bak
+*.swp
