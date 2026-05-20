@@ -7,8 +7,10 @@ Dim WShell, BotSportDir, PythonCmd, LogFile
 
 Set WShell = CreateObject("WScript.Shell")
 
-' Directorio del bot (mismo lugar que este .vbs)
-BotSportDir = CreateObject("Scripting.FileSystemObject").GetParentFolderName(WScript.ScriptFullName)
+' Directorio del bot (carpeta padre de scripts/)
+Dim FSO
+Set FSO = CreateObject("Scripting.FileSystemObject")
+BotSportDir = FSO.GetParentFolderName(FSO.GetParentFolderName(WScript.ScriptFullName))
 
 LogFile = BotSportDir & "\logs\bot_output.log"
 

@@ -1,3 +1,6 @@
+﻿import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+
 from opportunity_finder import get_standings, fetch_poly_all, find_poly_market, team_strengths
 from models.poisson_model import calculate_match_probabilities
 
@@ -45,3 +48,4 @@ for home, away in wc_matches:
         print(f"{label:<36}{mh}/{md}/{ma:<14} -- SIN POLY --")
 
 print(f"\nPolymarket encontrado: {ok}/{len(wc_matches)}")
+

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 Test Integral: Validación de Ligas y Prevención de Errores
 
@@ -7,6 +7,10 @@ Demuestra:
 2. Múltiples ligas soportadas
 3. Validación automática de datos
 """
+
+
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 import sys
 import os

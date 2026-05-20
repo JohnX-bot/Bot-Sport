@@ -25,6 +25,7 @@ python/
 # ---- Caché de fixtures (regenerables) ----
 *_fixtures_cache.json
 fixtures_cache.json
+cache/
 
 # ---- Reporte HTML generado ----
 report.html

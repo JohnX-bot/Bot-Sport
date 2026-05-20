@@ -56,7 +56,11 @@ class FootballAPI:
 
     def __init__(self, league_code: str = "pl", cache_file: str = "fixtures_cache.json"):
         self.league_code = league_code.lower()
-        self.cache_file = f"{self.league_code}_{cache_file}"
+        # Guardar cache en cache/ (relativo a la raíz del proyecto)
+        _root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        _cache_dir = os.path.join(_root, "cache")
+        os.makedirs(_cache_dir, exist_ok=True)
+        self.cache_file = os.path.join(_cache_dir, f"{self.league_code}_{cache_file}")
         self.cache_data: Dict = {}
         self._load_cache()
 

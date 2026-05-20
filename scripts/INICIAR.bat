@@ -2,7 +2,7 @@
 chcp 65001 >nul
 title BotSport - Opportunity Finder
 color 0A
-cd /d "%~dp0"
+cd /d "%~dp0\.."
 
 echo.
 echo  ============================================================

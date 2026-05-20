@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 Test Script: Guadalajara vs Tigres UANL
 
@@ -8,6 +8,10 @@ Demonstrates the bot correctly analyzing the match with:
 - Model predictions
 - Edge calculations
 """
+
+
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 import sys
 import os

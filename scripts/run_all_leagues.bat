@@ -1,5 +1,6 @@
 @echo off
 REM Script para ejecutar todas las ligas en Windows
+cd /d "%~dp0\.."
 
 echo.
 echo ========================================================================

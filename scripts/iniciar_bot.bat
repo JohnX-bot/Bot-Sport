@@ -27,7 +27,7 @@ echo  Iniciando con min-edge %EDGE% ...
 echo  Ctrl+C para detener.
 echo.
 
-cd /d "%~dp0"
+cd /d "%~dp0\.."
 python opportunity_finder.py --html --min-edge %EDGE%
 
 echo.

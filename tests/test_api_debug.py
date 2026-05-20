@@ -1,7 +1,11 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """
 Script de diagnóstico para verificar el funcionamiento del API
 """
+
+
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
 
 import os
 import sys
