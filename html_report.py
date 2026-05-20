@@ -1809,6 +1809,7 @@ def generate_report(
         ("brasileirao",       "Brasileirão"),
         ("liga_mx",           "Liga MX"),
         ("mls",               "MLS"),
+        ("fifa_world_cup",    "Mundial 2026"),
     ]
     sidebar_btns = (
         '<button class="league-btn all-btn active" data-slug="__all__" '

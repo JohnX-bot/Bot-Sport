@@ -69,6 +69,7 @@ LEAGUES = [
     ("brasil",       "Brasileirao",       "bra.1",                "BSA"),
     ("mex",          "Liga MX",           "mex.1",                None),
     ("mls",          "MLS",               "usa.1",                None),
+    ("wc2026",       "FIFA World Cup",    "fifa.world",           None),
 ]
 
 ESPN_BASE  = "https://site.api.espn.com/apis/site/v2/sports/soccer"
@@ -86,6 +87,7 @@ POLY_TAGS = {
     "brasil":       ["brazil-serie-a"],
     "mex":          ["mex"],
     "mls":          ["mls"],
+    "wc2026":       ["fifa-world-cup", "world-cup"],  # Polymarket: /sports/fifa-world-cup/games
 }
 
 # ─────────────────────────────────────────────────────────────────
@@ -470,7 +472,7 @@ FD_COMP = {"pl":"PL","laliga":"PD","bundesliga":"BL1","ligue1":"FL1",
            "seriea":"SA","brasil":"BSA","ucl":"CL","libertadores":"CLI"}
 
 # Ligas soportadas solo por ESPN (sin football-data.org)
-ESPN_ONLY = {"mls","mex","superlig"}
+ESPN_ONLY = {"mls","mex","superlig","wc2026"}
 
 
 def _espn_standings(espn_id: str) -> Dict:
@@ -538,9 +540,23 @@ def get_standings(league_code: str, espn_id: str = "") -> Dict:
     """
     Retorna {team_name: {goalsFor, goalsAgainst, played, won, draw, lost, form/form_score}}.
     Fuente: football-data.org para ligas europeas, ESPN para el resto.
+    Para wc2026: usa rankings FIFA como proxy de fuerza (datos sintéticos).
     """
     cached, ts = _standings_cache.get(league_code, ({}, 0.0))
     if time.time() - ts < 3600 and cached:
+        return cached
+
+    # ── Mundial 2026: rankings FIFA como proxy de fuerza ──────────────────
+    if league_code == "wc2026":
+        try:
+            from data.fifa_rankings import get_wc_standings
+            result = get_wc_standings()
+            if result:
+                _standings_cache[league_code] = (result, time.time())
+                print(f"[FIFA-Rankings] {len(result)} selecciones cargadas")
+                return result
+        except Exception as e:
+            print(f"[FIFA-Rankings] error: {e}")
         return cached
 
     comp = FD_COMP.get(league_code)
@@ -1089,9 +1105,41 @@ def fetch_poly_all() -> Dict[str, Dict]:
     return result
 
 
+# ── Alias de selecciones nacionales (ESPN ↔ Polymarket) ──────────────────────
+# ESPN usa nombre oficial, Polymarket puede diferir en algunos casos
+_WC_ALIASES: Dict[str, str] = {
+    # ESPN name        → Polymarket name
+    "south korea":         "korea republic",
+    "korea republic":      "south korea",
+    "ivory coast":         "côte d'ivoire",
+    "cote d'ivoire":       "côte d'ivoire",
+    "côte d'ivoire":  "ivory coast",
+    "bosnia-herzegovina":  "bosnia and herzegovina",
+    "bosnia and herzegovina": "bosnia-herzegovina",
+    "cape verde":          "cabo verde",
+    "cabo verde":          "cape verde",
+    "iran":                "ir iran",
+    "ir iran":             "iran",
+    "curacao":             "curaçao",
+    "curaçao":        "curacao",
+    "congo dr":            "dr congo",
+    "dr congo":            "congo dr",
+    "turkiye":             "türkiye",
+    "türkiye":        "turkiye",
+    "turkey":              "türkiye",
+    "united states":       "usa",
+    "usa":                 "united states",
+}
+
+def _wc_normalize(name: str) -> str:
+    """Normaliza nombre de selección para matching ESPN ↔ Polymarket."""
+    return _WC_ALIASES.get(name.lower(), name.lower())
+
 def _sim(a: str, b: str) -> bool:
     a, b = a.lower(), b.lower()
     if a == b: return True
+    # Intentar alias de selecciones nacionales
+    if _wc_normalize(a) == b or a == _wc_normalize(b): return True
     stop = {"club","united","city","real","sporting","football","atletico","fc","sc","cf","ac","se","ca"}
     words = [w for w in a.split() if len(w) > 3 and w not in stop]
     return any(w in b for w in words)
@@ -1257,12 +1305,26 @@ def analyze_match(match: Dict, detail: Dict, standings: Dict, poly: Dict) -> Opt
             if kl == n or n in kl or kl in n:
                 return int(v.get("played", 0) or 0)
         return 0
+
+    is_wc = match.get("league_code", "") == "wc2026"
     home_has_data = _team_played(home) >= 5
     away_has_data = _team_played(away) >= 5
 
     # Si NINGÚN equipo tiene datos reales → descartar: el modelo es ciego
-    if not home_has_data and not away_has_data:
+    # Para el Mundial siempre hay datos (rankings FIFA = 38 partidos virtuales)
+    if not is_wc and not home_has_data and not away_has_data:
         return None
+
+    # ── Home advantage según contexto ────────────────────────────────
+    # Mundial: sedes neutrales excepto para anfitriones (México, USA, Canadá)
+    _WC_HOSTS = {"mexico", "united states", "usa", "canada"}
+    if is_wc:
+        if home.lower() in _WC_HOSTS:
+            _home_adv = 1.20   # anfitrión jugando en su país
+        else:
+            _home_adv = 1.05   # sede neutral (ventaja mínima por sorteo/logística)
+    else:
+        _home_adv = 1.12
 
     # Probabilidades base con modelo Poisson
     probs = calculate_match_probabilities(
@@ -1271,7 +1333,7 @@ def analyze_match(match: Dict, detail: Dict, standings: Dict, poly: Dict) -> Opt
         away_attack=str_data["away_attack"],
         away_defense=str_data["away_defense"],
         league_avg_goals=str_data["league_avg"],
-        home_advantage=1.12,
+        home_advantage=_home_adv,
     )
 
     # Ajuste por forma reciente
